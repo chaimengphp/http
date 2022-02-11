@@ -1,0 +1,19 @@
+{
+    "name": "chaimeng/http",
+    "description": "network",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Chaimeng\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaimeng",
+            "email": "chaimeng@jiemian.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
