@@ -6,7 +6,7 @@
  * Time: 15:16
  */
 
-namespace Chaimeng\Http;
+namespace chaimeng\http;
 class Net {
     public function curl($url)
     {
